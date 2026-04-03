@@ -10,6 +10,12 @@
 <h4>TPlay InterFace</h4>
 <img src="https://i.ibb.co/mXKTCpZ/screen.jpg" alt="screen" border="0">
 
+- Ini adalah Pemutar MP3 Termux (CLI) oleh SpeedX.Ini hanyalah pemutar MP3 yang unik untuk memberi Anda perasaan keren layaknya seorang peretas
+- TPlay adalah pemutar MP3 berbasis baris perintah yang memberikan Anda sensasi menjadi seorang geek
+- Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
+- Harap instal Termux:API dari Play Store sebelum melanjutkan
+- Terus dukung saya untuk proyek-proyek lainnya.
+
 <h2 align="center">
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
@@ -24,11 +30,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-- Ini adalah Pemutar MP3 Termux (CLI) oleh SpeedX.Ini hanyalah pemutar MP3 yang unik untuk memberi Anda perasaan keren layaknya seorang peretas
-- TPlay adalah pemutar MP3 berbasis baris perintah yang memberikan Anda sensasi menjadi seorang geek
-- Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
-- Harap instal Termux:API dari Play Store sebelum melanjutkan
-- Terus dukung saya untuk proyek-proyek lainnya.
 
 # Cara Penginstallan
 
