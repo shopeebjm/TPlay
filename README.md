@@ -45,6 +45,7 @@ remove <nomor_trek> - Menghapus lagu dengan nomor yang sesuai dari daftar putar
 sort - Mengurutkan daftar berdasarkan jalur
 
 ## Yang Harus Dilakukan
+
 Hapus Ketergantungan Termux:API dan Jadikan Platform Independen. Silakan Tambahkan Lebih Banyak.
 
 # CATATAN: 
