@@ -15,13 +15,12 @@ Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
 
 - Untuk Menggunakan Script Ini Ketikkan Perintah Ini Di Aplikasi Termux:
 
-```git clone https://github.com/shopeebjm/TPlay```
-
-```cd TPlay```
-
-```chmod +x setup.sh```
-
-```./setup.sh```
+```
+git clone https://github.com/shopeebjm/TPlay
+cd TPlay
+chmod +x setup.sh
+./setup.sh
+```
 
 Now the Script Will Execute..
 
@@ -63,13 +62,3 @@ Feel Free To Add More
     [-] Run setup.sh and choose to update script and then choose to install dependencies<br>
     [-] Make sure to install python2 figlet toilet git<br>
     [-] If these don't solve your problem then contact me (links below)<br>
-
-
-
- TPlay Was Created By SpeedX And Retro Ghost
-
-
-# CONTACT
-
- For Any Queries:  
-        Ping Me : [Telegram](http://t.me/the_space_bar)
