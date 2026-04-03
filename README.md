@@ -3,16 +3,15 @@
 <h4>TPlay InterFace</h4>
 <img src="https://i.ibb.co/mXKTCpZ/screen.jpg" alt="screen" border="0">
 
-This is a Termux MP3 Player (CLI) By SpeedX 
-This is Just A Geeky MP3 Player To Give you an Awesome Feeling Of A Hacker....
+- Ini adalah Pemutar MP3 Termux (CLI) oleh SpeedX. Ini hanyalah pemutar MP3 yang unik untuk memberi Anda perasaan keren layaknya seorang peretas....
 
-TPlay is a Command Lined Based MP3 player To Give You The Feeling Of A Geek...
+TPlay adalah pemutar MP3 berbasis baris perintah yang memberikan Anda sensasi menjadi seorang geek...
 
-It is Coded in python2 with help of my friend RETRO GHOST 
+Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
 
-[*] Please install Termux:API From PlayStore Before Proceeding...
+[*] Harap instal Termux:API dari Play Store sebelum melanjutkan...
 
-Keep Supporting ME For More Projects ;-)
+Terus dukung saya untuk proyek-proyek lainnya ;-)
 
 # Requirements
 
