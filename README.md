@@ -44,18 +44,16 @@ ref - Menyegarkan layar
 remove <nomor_trek> - Menghapus lagu dengan nomor yang sesuai dari daftar putar
 sort - Mengurutkan daftar berdasarkan jalur
 
-## TODO
-Remove Termux:API Dependencies and Make Platform Independent
-Feel Free To Add More
+## Yang Harus Dilakukan
+Hapus Ketergantungan Termux:API dan Jadikan Platform Independen. Silakan Tambahkan Lebih Banyak.
 
+# CATATAN: 
+Anda Harus Menginstal Termux:API dari Play Store Sebelum Melanjutkan
 
-# NOTE
- NOTE: You Must Install Termux:API From PlayStore Before Proceeding 
-
-[+] IF U GET ANY ERROR MAKE SURE OF FOLLOWING FACTS<br>
-    [-] You are running script in Termux not in other emulator<br>
-    [-] You Have Installed Termux:API From PlayStore<br>
-    [-] Make Sure You Have some mp3 files<br>
-    [-] Run setup.sh and choose to update script and then choose to install dependencies<br>
-    [-] Make sure to install python2 figlet toilet git<br>
-    [-] If these don't solve your problem then contact me (links below)<br>
+- JIKA ANDA MENDAPATKAN KESALAHAN, PASTIKAN FAKTA-FAKTA BERIKUT
+- Anda menjalankan skrip di Termux, bukan di emulator lain
+- Anda telah menginstal Termux:API dari Play Store
+- Pastikan Anda memiliki beberapa file mp3
+- Jalankan setup.sh dan pilih untuk memperbarui skrip, lalu pilih untuk menginstal dependensi
+- Pastikan untuk menginstal python2, figlet, toilet, dan git
+- Jika ini tidak menyelesaikan masalah Anda, hubungi saya (tautan di bawah)
