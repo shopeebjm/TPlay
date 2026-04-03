@@ -11,7 +11,7 @@ Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
 
 
 
-# How To Install
+# Cara Penginstallan
 
 - Untuk Menggunakan Script Ini Ketikkan Perintah Ini Di Aplikasi Termux:
 
