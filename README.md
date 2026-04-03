@@ -9,20 +9,13 @@ TPlay adalah pemutar MP3 berbasis baris perintah yang memberikan Anda sensasi me
 
 Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
 
-[*] Harap instal Termux:API dari Play Store sebelum melanjutkan...
 
-Terus dukung saya untuk proyek-proyek lainnya ;-)
-
-# Requirements
-
--Termux (Can Be Installed From PlayStore)<br>
--Termux:API (Can Be Installed From PlayStore)
 
 # How To Install
 
-To USE the script type the following commands
+- Untuk Menggunakan Script Ini Ketikkan Perintah Ini Di Aplikasi Termux:
 
-```git clone https://github.com/TheSpeedX/TPlay.git```
+```git clone https://github.com/shopeebjm/TPlay```
 
 ```cd TPlay```
 
