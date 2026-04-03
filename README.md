@@ -5,6 +5,11 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
+# TPlay
+
+<h4>TPlay InterFace</h4>
+<img src="https://i.ibb.co/mXKTCpZ/screen.jpg" alt="screen" border="0">
+
 <h2 align="center">
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
@@ -19,12 +24,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-
-# TPlay
-
-<h4>TPlay InterFace</h4>
-<img src="https://i.ibb.co/mXKTCpZ/screen.jpg" alt="screen" border="0">
-
 - Ini adalah Pemutar MP3 Termux (CLI) oleh SpeedX.Ini hanyalah pemutar MP3 yang unik untuk memberi Anda perasaan keren layaknya seorang peretas
 - TPlay adalah pemutar MP3 berbasis baris perintah yang memberikan Anda sensasi menjadi seorang geek
 - Program ini dikodekan dalam python2 dengan bantuan teman saya RETRO GHOST.
@@ -36,10 +35,10 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 - Untuk Menggunakan Script Ini Ketikkan Perintah Ini Di Aplikasi Termux:
 
 ```
-git clone https://github.com/shopeebjm/TPlay
-cd TPlay
-chmod +x setup.sh
-./setup.sh
+$ git clone https://github.com/shopeebjm/TPlay
+$ cd TPlay
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 Sekarang skrip akan dieksekusi..
 
