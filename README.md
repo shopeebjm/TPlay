@@ -21,31 +21,28 @@ cd TPlay
 chmod +x setup.sh
 ./setup.sh
 ```
+Sekarang skrip akan dieksekusi..
 
-Now the Script Will Execute..
+Pertama, pilih 1 untuk menginstal dependensi
+, lalu pilih opsi 3, tambahkan TPlay ke bin.
 
-First Select 1 To Install Dependencies<br> 
-Then Choose Option 3 Add TPlay to bin
+Sekarang Anda dapat menjalankan TPlay
 
-Now You Can Execute TPlay
+Cukup dengan mengetik tplay di mana saja ;-)
 
-By just typing tplay anywhere ;-)
-
-Available Commands are:---
-<br>
-                        play                  - Plays Paused Music<br>
-                        play <track_number>   - Plays The Song With That Track Number ( EX- play 3 )<br>
-                        pause                 - Pauses Playing Music<br>
-                        next                  - Plays Next Song<br>
-                        prev                  - Plays Previous Song<br>
-                        random                - Plays Random Song<br>
-                        quit / exit           - Stops Playing Music And Exits Player<br>
-                        info                  - Gets Info of Currently Playing Song<br>
-                        reload                - Rescans The Phone Memory For MP3 files and creates A Playlist<br>
-                        ref                   - Refreshes The Screen<br>
-                        remove <track_number> - Removes Song With Respective Number From PlayList<br>
-                        sort                  - Sort The List According To Path<br>
-<br><br>
+Perintah yang tersedia adalah:---
+play - Memutar musik yang dijeda
+play <nomor_trek> - Memutar lagu dengan nomor trek tersebut (contoh: play 3)
+pause - Menjeda musik yang sedang diputar
+next - Memutar lagu berikutnya
+prev - Memutar lagu sebelumnya
+random - Memutar lagu secara acak
+quit / exit - Menghentikan pemutaran musik dan keluar dari pemutar
+info - Mendapatkan informasi lagu yang sedang diputar
+reload - Memindai ulang memori telepon untuk file MP3 dan membuat daftar putar
+ref - Menyegarkan layar
+remove <nomor_trek> - Menghapus lagu dengan nomor yang sesuai dari daftar putar
+sort - Mengurutkan daftar berdasarkan jalur
 
 ## TODO
 Remove Termux:API Dependencies and Make Platform Independent
